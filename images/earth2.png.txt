@@ -1,0 +1,6 @@
+source: https://commons.wikimedia.org/wiki/File:Solarsystemscope_texture_8k_earth_daymap.jpg
+license: CC-BY 4.0, https://creativecommons.org/licenses/by/4.0/deed.en
+credit: SolarSystemScope (www.solarsystemscope.com)
+credit: Cmglee (https://commons.wikimedia.org/wiki/User:Cmglee)
+credit: NASA
+changes: scaled from 8192 by 4096 pixels to 2048 by 1024 pixels
